@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and local dynamic artifacts
+*.log
+data/audit_log.jsonl
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

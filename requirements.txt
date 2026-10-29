@@ -1,0 +1,22 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+
+# ML / Data
+scikit-learn==1.6.1
+numpy==1.26.4
+pandas==2.2.3
+joblib==1.4.2
+
+# Dashboard
+streamlit==1.41.1
+
+# Async support
+asyncio-mqtt==0.16.2
+aiofiles==24.1.0
+
+# Utilities
+rich==13.9.4
+orjson==3.10.13
+psutil==6.1.1
